@@ -1,0 +1,12 @@
+{
+  "name": "cwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cwd_index.js",
+  "scripts": {
+    "cwd-debugger": "node cwd_index"
+  },
+  "keywords": [],
+  "author": "wy <631824375@qq.com>",
+  "license": "MIT"
+}
